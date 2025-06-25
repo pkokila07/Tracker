@@ -1,5 +1,3 @@
-# Personal Expense Tracker
-
 expenses = []
 
 def show_expenses():
